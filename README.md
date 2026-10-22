@@ -13,3 +13,7 @@ Clarification:
 This was not made with AI, only slightly remodeled with ChatGPT because my scripting and modelling are both terrible.
 To run this script, I strongly recommend uploading the file to Claudes miniplayer (Use this following prompt: Please turn this HTML file attached into a playable for the Claude AI miniplayer.)
 You can also use 3Schools HTML file runner, but its very laggy and cramped there.
+lore:
+You are BoatMan, a dude that was sent to sea during a hurricane to save survivors.
+Your job is to build a boat and rescue all 18 or 26 survivors.
+You pick up the survivors and bring them to your base, where then you accomplish your job 
